@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/surya7g/software-engineering.git
+git add .
+git commit -m 'hello'
+git push origin master
